@@ -42,6 +42,6 @@ permalink: /news/public-consultations/Public-Consultation-on-Section-440-of-Inso
 
 [Annex (184KB)](/files/IRD_(Prescribed_Contracts_under_Section_440)_Regulations_2020.pdf)<br>
 
-* *Please note that the proposed provisions in this piece of subsidiary legislation in this public consultation are still undergoing the legislative drafting and vetting process, and are therefore not finalised and subject to change following the consultation process.*
+**Please note that the proposed provisions in this piece of subsidiary legislation in this public consultation are still undergoing the legislative drafting and vetting process, and are therefore not finalised and subject to change following the consultation process.*
 
 <p class="right-side-updated">Last updated on 23 Mar 2020</p> 
