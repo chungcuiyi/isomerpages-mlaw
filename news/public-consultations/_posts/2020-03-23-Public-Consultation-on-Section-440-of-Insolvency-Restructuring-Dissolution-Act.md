@@ -2,14 +2,14 @@
 layout: post
 title:  Public Consultation on Proposed Draft Subsidiary Legislation Under Section 440 of the Insolvency, Restructuring and Dissolution Act
 date:   2020-03-23
-permalink: /news/public-consultations/Section-440-of-Insolvency-Restructuring-Dissolution-Act
+permalink: /news/public-consultations/Public-Consultation-on-Section-440-of-Insolvency-Restructuring-Dissolution-Act
 ---
 
 **Public Consultation on Proposals to Implement the Recommendations of the Committee for the Professional Training of Lawyers**
 ---
 
 <ol style="list-style-type: upper-roman; font-weight:bold">
-<li><u>INTRODUCTION</u></li>
+<li><u>Introduction</u></li>
 </ol>
 
 
@@ -17,7 +17,7 @@ permalink: /news/public-consultations/Section-440-of-Insolvency-Restructuring-Di
 
 
 
-2. The IRDA introduced a new statutory provision at s 440. This provision restricts the operation of *ipso facto* contractual clauses in which a party to a contract has the contractual right to terminate or modify that contract entered into with a company, by reason only that specific proceedings (as defined in s 440(6) of the IRDA) are commenced or that the company is insolvent. It does not restrict the operation of *ipso facto* clauses that are triggered on any other contractually provided grounds (e.g. the failure of the company undergoing reorganisation to deliver services to the counterparty as required under the contract).
+2. The IRDA introduced a new statutory provision at s 440. This provision restricts the operation of *ipso facto* contractual clauses in which a party to a contract has the contractual right to terminate or modify that contract entered into with a company, by reason only that specific proceedings (as defined in s 440(6) of the IRDA) are commenced or that the company is insolvent. It does **<u>not</u>** restrict the operation of *ipso facto* clauses that are triggered on any other contractually provided grounds (e.g. the failure of the company undergoing reorganisation to deliver services to the counterparty as required under the contract).
 
 
 
@@ -25,7 +25,7 @@ permalink: /news/public-consultations/Section-440-of-Insolvency-Restructuring-Di
 
 
 
-4. To balance the interests of the counterparty and other stakeholders, various safeguards are included in s 440. This includes exemptions for certain types of contracts (under s 440(5) of the IRDA) and certain types of entities (under s440(6) of the IRDA), where the restriction would have a disproportionately adverse impact on markets.
+4. To balance the interests of the counterparty and other stakeholders, various safeguards are included in s 440. This includes exemptions for certain types of contracts (under s 440(5) of the IRDA) and certain types of entities (under s 440(6) of the IRDA), where the restriction would have a disproportionately adverse impact on markets.
 
 <ol start="2" style="list-style-type: upper-roman; font-weight:bold">
 <li><u>Public consultation</u></li>
@@ -42,6 +42,6 @@ permalink: /news/public-consultations/Section-440-of-Insolvency-Restructuring-Di
 
 [Annex (184KB)](/files/IRD_(Prescribed_Contracts_under_Section_440)_Regulations_2020.pdf)<br>
 
-**Please note that the proposed provisions in this piece of subsidiary legislation in this public consultation are still undergoing the legislative drafting and vetting process, and are therefore not finalised and subject to change following the consultation process.*
+* *Please note that the proposed provisions in this piece of subsidiary legislation in this public consultation are still undergoing the legislative drafting and vetting process, and are therefore not finalised and subject to change following the consultation process.*
 
 <p class="right-side-updated">Last updated on 23 Mar 2020</p> 
