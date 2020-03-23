@@ -5,7 +5,7 @@ date:   2020-03-23
 permalink: /news/public-consultations/Public-Consultation-on-Section-440-of-Insolvency-Restructuring-Dissolution-Act
 ---
 
-**Public Consultation on Proposals to Implement the Recommendations of the Committee for the Professional Training of Lawyers**
+**Public Consultation on Proposed Draft Subsidiary Legislation Under Section 440 of the Insolvency, Restructuring and Dissolution Act**
 ---
 
 <ol style="list-style-type: upper-roman; font-weight:bold">
